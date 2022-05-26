@@ -1,5 +1,5 @@
 #  Archway Dokümanlar Web Sayfası
- [Archway Docs](https://docs.archway.io/docs/overview/about/) Sayfası [Docusaurus 2](https://docusaurus.io/), altyapısı ile hazırlanmıştı.
+ [Archway Docs](https://docs.archway.io/docs/overview/about/) Sayfası [Docusaurus 2](https://docusaurus.io/), altyapısı ile hazırlanmıştır.
 
 ## Kurulum
 
