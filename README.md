@@ -1,10 +1,9 @@
 #  Archway Dokümanlar Web Sayfasu
-The [Archway Docs](https://docs.archway.io/docs/overview/about/) website is built using [Docusaurus 2](https://docusaurus.io/), a modern static website generator.
+ [Archway Docs](https://docs.archway.io/docs/overview/about/) Sayfası [Docusaurus 2](https://docusaurus.io/), altyapısı ile hazırlanmıştı.
 
 ## Kurulum
 
-To install the docs build environment:
-
+Dokümanlar oluşturma ortamını yüklemek için:
 ```console
 npm install
 ```
@@ -16,12 +15,11 @@ npm install
 npm start
 ```
 
-This command starts a local development server and opens a browser window. Most changes are reflected live without having to restart the server.
-
+Bu komut, yerel bir geliştirme sunucusunu başlatır ve bir tarayıcı penceresi açar. Değişikliklerin çoğu, sunucuyu yeniden başlatmaya gerek kalmadan canlı olarak yansıtılır.
 ## Çalıştırma
 
 ```console
 npm run build
 ```
 
-This command generates static content into the `build` directory and can be served using any static contents hosting service.
+Bu komut, 'build' dizinine statik içerik üretir ve herhangi bir statik içerik barındırma hizmeti kullanılarak sunulabilir.
